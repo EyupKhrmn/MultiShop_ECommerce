@@ -7,13 +7,13 @@ public sealed class Product
 {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
-    public string ProductId { get; set; }
-    public string ProductName { get; set; }
-    public decimal ProductPrice { get; set; }
-    public int ProductStock { get; set; }
-    public string ProductImageUrl { get; set; }
-    public string ProductDescription { get; set; }
-    public string Categoryıd { get; set; }
+    public string? ProductId { get; set; }
+    public string? ProductName { get; set; }
+    public decimal? ProductPrice { get; set; }
+    public int? ProductStock { get; set; }
+    public string? ProductImageUrl { get; set; }
+    public string? ProductDescription { get; set; }
+    public string? Categoryıd { get; set; }
     [BsonIgnore]
-    public Category Category { get; set; }
+    public Category? Category { get; set; }
 }
