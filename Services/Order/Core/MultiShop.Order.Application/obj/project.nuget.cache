@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "KcctO36kOuNcq6drBLUCT8Zu0913ikeKBVDWHzaQkXcoWsZB9XLQlD10R+Sl9e2BsJQWK5kuljDvmI4vgOTT8Q==",
+  "dgSpecHash": "mUIZfQA0PWsWi7ciZfZVpeLuXwmjJLcVc2fiNXjxfagjqg2I39TYorXTYd1zDNJUfa1rfFij91KfijulR5GJIQ==",
   "success": true,
   "projectFilePath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
     "/Users/eyupkahraman/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

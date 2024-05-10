@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oMtJuzQVXTImf0DsIXYYhitteqyukNAK5aJ47EiVaYg3uqW5ffB4CauDfFsFwFrSQTA3+r7YEG1v3WQgOvpklQ==",
+  "dgSpecHash": "ahh1OwHdQHFol+12JXh7/FFJjLIPY4MKuvcVaWvn/mw3/iVVec3gx1+3rjZHyOpHVHpCa55GapKU3Eh4l3FJRA==",
   "success": true,
   "projectFilePath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj",
   "expectedPackageFiles": [

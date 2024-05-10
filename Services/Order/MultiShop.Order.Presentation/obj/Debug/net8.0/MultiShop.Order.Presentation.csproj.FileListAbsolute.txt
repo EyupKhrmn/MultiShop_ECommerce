@@ -257,3 +257,5 @@
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/bin/Debug/net8.0/MultiShop.Order.Application.pdb
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/bin/Debug/net8.0/MultiShop.Order.Domain.pdb
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/bin/Debug/net8.0/MultiShop.Order.Persistence.pdb
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/bin/Debug/net8.0/MediatR.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/bin/Debug/net8.0/MediatR.Contracts.dll
