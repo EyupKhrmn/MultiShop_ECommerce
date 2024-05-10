@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
+        "projectName": "MultiShop.Order.Application",
+        "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
+        "packagesPath": "/Users/eyupkahraman/.nuget/packages/",
+        "outputPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eyupkahraman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
+        "projectName": "MultiShop.Order.Domain",
+        "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
+        "packagesPath": "/Users/eyupkahraman/.nuget/packages/",
+        "outputPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eyupkahraman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj",
+        "projectName": "MultiShop.Order.Persistence",
+        "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj",
+        "packagesPath": "/Users/eyupkahraman/.nuget/packages/",
+        "outputPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eyupkahraman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj"
+              },
+              "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

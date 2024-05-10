@@ -247,3 +247,8 @@
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Discount/MultiShop.Discount/obj/Debug/net8.0/MultiShop.Discount.MvcApplicationPartsAssemblyInfo.cs
