@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wHqd3t33wXjTZSqRM6aE9DmrPg6U9oFxrMtyOo8FZx8aQIuocRPNR6KuBBbc+2hJ6iSM2JPaWp1ilyaFqvW1TA==",
+  "dgSpecHash": "oJwBoPWC8l686/Y/6JC/2XSgprNoFFwPWCs5+bru53Kjery98LJmpaLlUmDrUHyR6Cvf3g1auEr9Yl86+gbjoA==",
   "success": true,
   "projectFilePath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/MultiShop.Order.Presentation.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,8 @@
     "/Users/eyupkahraman/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.24/microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
