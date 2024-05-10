@@ -10,7 +10,7 @@ public sealed class GetOrderDetailQueryHandler(IGeneralRepository<OrderDetail> g
 {
     private readonly IGeneralRepository<OrderDetail> _generalRepository = generalRepository;
 
-    public async Task<List<GetOrderDetailQueryResult>> Handle(GetOrderDetailQuery query)
+    public async Task<List<GetOrderDetailQueryResult>> Handle()
     {
         var value = await _generalRepository.GetAllAsync();
         return value.Select(_ => new GetOrderDetailQueryResult

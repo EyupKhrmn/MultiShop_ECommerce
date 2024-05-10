@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Order.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90e6da8538e0fe0a309e10999607326a5c6991b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+768b4866e00c3bcf1b16acd933bb87e6da21efc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Order.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Order.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
