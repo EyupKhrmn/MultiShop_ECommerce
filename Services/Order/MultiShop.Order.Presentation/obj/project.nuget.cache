@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "flaXi3o/HPXIlAd7HdDLakpXHjjicvLCesy90ujhLAcZ6sQFXa6o0G2c1/a6zbkFhDF4gpvm+SlFHg09ApehPQ==",
+  "dgSpecHash": "xWejh6XchmipCPdCgtVkUvVeKX5N3TR4BBW5GMH6nnAhU98sdckL9SF51FJCvNLIQYssm9scS60+OqimvSBnkQ==",
   "success": true,
   "projectFilePath": "/Users/eyupkahraman/RiderProjects/MultiShop/Services/Order/MultiShop.Order.Presentation/MultiShop.Order.Presentation.csproj",
   "expectedPackageFiles": [
@@ -82,8 +82,10 @@
     "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.4/microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.4/microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.design/8.0.4/microsoft.entityframeworkcore.design.8.0.4.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.4/microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.sqlserver/8.0.4/microsoft.entityframeworkcore.sqlserver.8.0.4.nupkg.sha512",
+    "/Users/eyupkahraman/.nuget/packages/microsoft.entityframeworkcore.tools/8.0.4/microsoft.entityframeworkcore.tools.8.0.4.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/eyupkahraman/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

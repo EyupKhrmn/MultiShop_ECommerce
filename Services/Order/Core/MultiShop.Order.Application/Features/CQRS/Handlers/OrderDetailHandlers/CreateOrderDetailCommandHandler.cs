@@ -18,7 +18,6 @@ public sealed class CreateOrderDetailCommandHandler(IGeneralRepository<OrderDeta
             ProductAmount = command.ProductAmount,
             ProductTotalPrice = command.ProductTotalPrice,
             OrderingId = command.OrderingId,
-            Ordering = command.Ordering
         };
 
         await _generalRepository.AddAsync(value);

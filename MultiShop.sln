@@ -26,6 +26,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiShop.Order.Application
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiShop.Order.Presentation", "Services\Order\MultiShop.Order.Presentation\MultiShop.Order.Presentation.csproj", "{1E9588C4-AB9B-45B4-B8B2-22A35D0F7CC1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{ECB8733B-E3AE-4E8A-AED5-A172FEF4DF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiShop.IdentityServer", "IdentityServer\MultiShop.IdentityServer\MultiShop.IdentityServer.csproj", "{C5ADE2A6-503F-4371-883F-A90697F33ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,10 @@ Global
 		{1E9588C4-AB9B-45B4-B8B2-22A35D0F7CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E9588C4-AB9B-45B4-B8B2-22A35D0F7CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E9588C4-AB9B-45B4-B8B2-22A35D0F7CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5ADE2A6-503F-4371-883F-A90697F33ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ADE2A6-503F-4371-883F-A90697F33ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ADE2A6-503F-4371-883F-A90697F33ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ADE2A6-503F-4371-883F-A90697F33ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F28399F3-1414-456B-8FDA-9EB25BFDB998} = {C09FE7AC-310A-4CBA-AB14-6358D9E7D1B2}
@@ -70,5 +78,6 @@ Global
 		{D86C66F0-BE2A-452A-BD31-24DDDBF92F32} = {15BA76AD-2FBA-42D1-9278-1515B1B426A8}
 		{9154B1DE-7410-4268-B5FB-D2DDD6ED1389} = {15BA76AD-2FBA-42D1-9278-1515B1B426A8}
 		{1E9588C4-AB9B-45B4-B8B2-22A35D0F7CC1} = {BF97242F-7627-4859-B8F3-262B7748AF15}
+		{C5ADE2A6-503F-4371-883F-A90697F33ABC} = {ECB8733B-E3AE-4E8A-AED5-A172FEF4DF20}
 	EndGlobalSection
 EndGlobal

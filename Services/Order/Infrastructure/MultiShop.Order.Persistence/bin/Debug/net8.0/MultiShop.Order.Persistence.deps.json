@@ -946,6 +946,7 @@
       "MultiShop.Order.Application/1.0.0": {
         "dependencies": {
           "MediatR": "12.2.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "MultiShop.Order.Domain": "1.0.0"
         },
         "runtime": {

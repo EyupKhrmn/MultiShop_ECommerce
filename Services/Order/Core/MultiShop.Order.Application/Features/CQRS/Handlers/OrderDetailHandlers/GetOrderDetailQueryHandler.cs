@@ -22,7 +22,6 @@ public sealed class GetOrderDetailQueryHandler(IGeneralRepository<OrderDetail> g
             ProductAmount = _.ProductAmount,
             ProductTotalPrice = _.ProductTotalPrice,
             OrderingId = _.OrderingId,
-            Ordering = _.Ordering
         }).ToList();
     }
 }

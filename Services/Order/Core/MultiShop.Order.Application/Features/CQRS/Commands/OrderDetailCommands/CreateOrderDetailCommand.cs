@@ -10,5 +10,4 @@ public sealed record CreateOrderDetailCommand
     public int ProductAmount { get; set; }
     public decimal ProductTotalPrice { get; set; }
     public int OrderingId { get; set; }
-    public Ordering Ordering { get; set; }
 }

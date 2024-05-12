@@ -21,7 +21,6 @@ public sealed class GetOrderDetailByIdQueryHandler(IGeneralRepository<OrderDetai
             ProductAmount = value.ProductAmount,
             ProductTotalPrice = value.ProductTotalPrice,
             OrderingId = value.OrderingId,
-            Ordering = value.Ordering
         };
     }
 }

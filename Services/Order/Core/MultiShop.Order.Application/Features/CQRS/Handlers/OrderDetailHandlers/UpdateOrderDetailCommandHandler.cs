@@ -17,7 +17,6 @@ public sealed class UpdateOrderDetailCommandHandler(IGeneralRepository<OrderDeta
         value.ProductAmount = command.ProductAmount;
         value.ProductTotalPrice = command.ProductTotalPrice;
         value.OrderingId = command.OrderingId;
-        value.Ordering = command.Ordering;
         
         await _generalRepository.UpdateAsync(value);
     }
