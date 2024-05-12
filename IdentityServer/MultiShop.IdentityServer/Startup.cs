@@ -28,6 +28,7 @@ namespace MultiShop.IdentityServer
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers();
             services.AddControllersWithViews();
 
             services.AddDbContext<ApplicationDbContext>(options =>
@@ -54,7 +55,7 @@ namespace MultiShop.IdentityServer
 
             // not recommended for production - you need to store your key material somewhere secure
             builder.AddDeveloperSigningCredential();
-
+            
             services.AddAuthentication()
                 .AddGoogle(options =>
                 {
