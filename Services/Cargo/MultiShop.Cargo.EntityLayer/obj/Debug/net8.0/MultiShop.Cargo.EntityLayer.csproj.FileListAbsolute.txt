@@ -1,0 +1,15 @@
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.deps.json
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.runtimeconfig.json
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.pdb
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.csproj.AssemblyReference.cache
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.AssemblyInfoInputs.cache
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.AssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.csproj.CoreCompileInputs.cache
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.sourcelink.json
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/refint/MultiShop.Cargo.EntityLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.pdb
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/MultiShop.Cargo.EntityLayer.genruntimeconfig.cache
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.EntityLayer/obj/Debug/net8.0/ref/MultiShop.Cargo.EntityLayer.dll
