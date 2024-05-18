@@ -1,0 +1,6 @@
+@MultiShop.Cargo.WebAPI_HostAddress = http://localhost:5056
+
+GET {{MultiShop.Cargo.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
