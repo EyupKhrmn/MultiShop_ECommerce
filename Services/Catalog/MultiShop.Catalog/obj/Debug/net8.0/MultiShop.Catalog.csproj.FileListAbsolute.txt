@@ -238,3 +238,11 @@
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net8.0/MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

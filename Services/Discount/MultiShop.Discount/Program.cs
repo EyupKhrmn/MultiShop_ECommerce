@@ -1,11 +1,20 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.JSInterop;
 using MultiShop.Discount.Context;
 using MultiShop.Discount.Services;
+using MultiShop.Discount.Services.ExtensionServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddTransient<DiscountContext>();
-builder.Services.AddTransient<IDiscountService,DiscountService>();
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+{
+    opt.Authority= builder.Configuration["IdentityServerUrl"];
+    opt.Audience = "ResourceDiscount";
+    opt.RequireHttpsMetadata = false;
+});
+
+builder.Services.AddDiscountServices();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -20,6 +29,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 
