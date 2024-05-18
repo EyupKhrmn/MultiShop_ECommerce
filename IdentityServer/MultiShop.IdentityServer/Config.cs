@@ -14,18 +14,10 @@ namespace MultiShop.IdentityServer
     {
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[]
         {
-            new ApiResource("resourceCatalogApi")
-            {
-                Scopes = {"CatalogFullPermission","CatalogReadPermission"}
-            },
-            new ApiResource("ResourceDiscount")
-            {
-                Scopes = {"DiscountFullPermission"}
-            },
-            new ApiResource("ResourceOrder")
-            {
-                Scopes = {"OrderFullPermission"}
-            },
+            new ApiResource("resourceCatalogApi") { Scopes = {"CatalogFullPermission","CatalogReadPermission"} },
+            new ApiResource("ResourceDiscount") { Scopes = {"DiscountFullPermission"} },
+            new ApiResource("ResourceOrder") { Scopes = {"OrderFullPermission"} },
+            new ApiResource("ResourceCargo") { Scopes = {"CargoFullPermission"} },
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
 
@@ -42,6 +34,7 @@ namespace MultiShop.IdentityServer
             new ApiScope("CatalogReadPermission","Read authorization for Catalog Api"),
             new ApiScope("DiscountFullPermission","Full authorization for Discount Api"),
             new ApiScope("OrderFullPermission","Full authorization for Order Api"),
+            new ApiScope("CargoFullPermission","Full authorization for Cargo Api"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
         };
 
@@ -71,7 +64,7 @@ namespace MultiShop.IdentityServer
                 ClientSecrets = { new Secret("multishopsecret".Sha256()) },
                 AllowedScopes =
                 {
-                    "CatalogReadPermission","CatalogFullPermission","DiscountFullPermission","OrderFullPermission",
+                    "CatalogReadPermission","CatalogFullPermission","DiscountFullPermission","OrderFullPermission","CargoFullPermission",
                     IdentityServerConstants.LocalApi.ScopeName,
                     IdentityServerConstants.StandardScopes.Email,
                     IdentityServerConstants.StandardScopes.OpenId,
