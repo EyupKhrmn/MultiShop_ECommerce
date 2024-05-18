@@ -10,3 +10,9 @@
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/obj/Debug/net8.0/refint/MultiShop.Cargo.BusinessLayer.dll
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/obj/Debug/net8.0/MultiShop.Cargo.BusinessLayer.pdb
 /Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/obj/Debug/net8.0/ref/MultiShop.Cargo.BusinessLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/bin/Debug/net8.0/MultiShop.Cargo.DataAccessLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.dll
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/bin/Debug/net8.0/MultiShop.Cargo.DataAccessLayer.pdb
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/bin/Debug/net8.0/MultiShop.Cargo.EntityLayer.pdb
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/obj/Debug/net8.0/MultiShop.Cargo.BusinessLayer.csproj.AssemblyReference.cache
+/Users/eyupkahraman/RiderProjects/MultiShop/Services/Cargo/MultiShop.Cargo.BusinessLayer/obj/Debug/net8.0/MultiSho.9C1E364B.Up2Date

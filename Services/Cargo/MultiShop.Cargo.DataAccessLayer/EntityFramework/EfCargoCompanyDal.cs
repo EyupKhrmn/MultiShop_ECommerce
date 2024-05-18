@@ -1,0 +1,10 @@
+using MultiShop.Cargo.DataAccessLayer.Abstract;
+using MultiShop.Cargo.DataAccessLayer.Concrate;
+using MultiShop.Cargo.DataAccessLayer.Repositories;
+using MultiShop.Cargo.EntityLayer.Concrate;
+
+namespace MultiShop.Cargo.DataAccessLayer.EntityFramework;
+
+public class EfCargoCompanyDal(CargoContext context) : GenericRepository<CargoCompany>(context),ICargoCompanyDal
+{
+}
