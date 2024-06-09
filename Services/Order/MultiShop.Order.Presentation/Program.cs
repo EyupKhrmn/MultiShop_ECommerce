@@ -5,6 +5,7 @@ using MultiShop.Order.Application.Interfaces;
 using MultiShop.Order.Application.Services;
 using MultiShop.Order.Persistence.Context;
 using MultiShop.Order.Persistence.Repositories;
+using MultiShop.Order.Presentation.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +19,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 builder.Services.AddDbContext<OrderContext>();
 builder.Services.AddScoped(typeof(IGeneralRepository<>), typeof(Repository<>));
 builder.Services.AddApplicationService(builder.Configuration);
+builder.Services.AddTransient<ExceptionHandlerMiddleware>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
